@@ -61,7 +61,7 @@ h2 {background-color: #0464fc;
 color: #fff;
 padding: 10px;}
 .cert {display: flex;
-    justify-content: space-evenly;
-   
+    justify-content: start;
+    width: 86vw;
    
 }
