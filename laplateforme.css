@@ -1,0 +1,67 @@
+header {display: flex;
+background-color: #0464fc;
+padding-top: 20px;
+padding-bottom: 20px;
+border: solid 1px white;
+}
+#logo {width: 200px ;}
+#h1 {font-size: 50px;
+color: #fff;}
+#nav1 {background-color:white;
+    width: 87vw;
+    height: 40px;
+    position: fixed;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: solid 1px #fff;
+}
+a {text-decoration: none;
+color: #fff;}
+
+#nav2 {background-color: #0464fc;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+right: 0px;
+top: 0px;
+padding-right: 10px;
+padding-left: 10px;
+border-left: solid 1px #fff;}
+#texteh {color: #fff;}
+.intro {padding-left: 20px;}
+.img {padding-top: 30px;
+}
+.nav1 {color:#0464fc;}
+.logo2 {height: 40px;
+padding-top: 0px;}
+#nav3 {background-color:white;
+    width: 86vw;
+    height: 40px;
+    position: fixed;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid 1px #fff;
+}
+
+#logoqsn {height: 40px;}
+.onas {width: 86vw;
+display: flex;
+;}
+.box {margin: 20px;}
+h2 {background-color: #0464fc;
+color: #fff;
+padding: 10px;}
+.cert {display: flex;
+    justify-content: space-evenly;
+   
+   
+}
